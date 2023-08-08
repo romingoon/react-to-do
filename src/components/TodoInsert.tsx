@@ -1,5 +1,5 @@
 import { MdAdd } from 'react-icons/md';
-import './TodoInsert.scss';
+import '../styles/TodoInsert.scss';
 
 const TodoInsert = () => {
   return (
